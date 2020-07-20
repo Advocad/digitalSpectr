@@ -1,0 +1,10 @@
+.todo {
+  margin-bottom: 10px;
+}
+.children {
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.check {
+  text-decoration: line-through;
+}
